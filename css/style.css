@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+}
+#container {
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px grey;
+}
+/* fdsglksjdfrñlgk */
+header {
+    background-color: #0092BE;
+    padding: 16px;
+}
+header img {
+    width: 100%;
+}
+nav {
+    width: 20%;
+    float: left;
+}
+#contenido {
+    width: 80%;
+    float: right;
+    padding-bottom: 24px;
+}
+footer {
+    background-color: #0092BE;
+    color: rgb(8, 4, 56);
+    text-align: center;
+    font-size: 30px;
+    padding: 6px;
+}
+.cb {
+    clear: both;
+}
+nav ul, nav li {
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    list-style-type: none;
+    font-size: 22px;
+    text-align: center;
+    padding: 8px;
+    margin: 5px;
+    color: darkblue;
+    border: solid 1px darkblue;
+    border-radius: 10px;
+}
+nav li:hover {
+    background-color: darkblue;
+    color: cyan;
+}
+.azulo {
+    color: darkblue;
+}
+a {
+    text-decoration: none;
+}
+#home {
+    text-align: center;
+}
+.titulo {
+    color: darkblue;
+    text-align: center;
+}
+.etiqueta {
+    font-size: 34px;
+    color: red;
+}
+.text-derecha {
+    text-align: right;
+}
+#enlaces a {
+    color: rgb(255, 157, 0);
+    font-weight: bold;
+    font-size: 20px;
+}
+#tablas table {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 22px;
+    text-align: center;
+}
+#tdefault th, #tcombi th {
+    background-color: rgb(7, 7, 70);
+    color: cornflowerblue;
+}
+#tdefault td, #tcombi td {
+    background-color: cornflowerblue;
+    color: rgb(7, 7, 70);
+}
+#tcebra tr:nth-child(odd) td{
+    background-color: rgb(243, 204, 204) ;
+}
+
+#tcebra tr:nth-child(even) td{
+    background-color: rgb(205, 205, 241);
+}
+#tablas #thorario table {
+    width: 90%;
+    margin: 0 auto;
+}
+#thorario th {
+    color: #008080;
+}
+#thorario td, #thorario th,#thorario table {
+    border: solid 1px black;
+}
+.lm {
+    background-color: #01B95C;
+}
+.prog {
+    background-color: #80FFFF;
+}
+.txt-24 {
+    font-size: 26px;
+}
+
