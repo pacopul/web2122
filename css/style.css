@@ -117,3 +117,34 @@ a {
     font-size: 26px;
 }
 
+#customo li {
+    list-style-type: decimal;
+}
+#customo li li {
+    list-style-type: lower-alpha;
+}
+#customo li li li{
+    list-style-type: lower-roman;
+}
+
+#customd li {
+    list-style-type: square;
+}
+#customd li li{
+    list-style-image: url(../img/corazon.png);
+}
+#customd li li li {
+    list-style-type: circle;
+    list-style-image: none;
+}
+
+#formbasico fieldset {
+    width: 50%;
+}
+
+#formvariado fieldset {
+    width: 70%;
+}
+#multimedia {
+    text-align: center;
+}
