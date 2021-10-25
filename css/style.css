@@ -148,3 +148,20 @@ a {
 #multimedia {
     text-align: center;
 }
+#formmoderno {
+    width: 60%;
+    margin: 0 auto;
+}
+#formmoderno fieldset {
+    border-color: blue;
+}
+
+#formmoderno legend {
+    color: blue;
+    font-size: 28px;
+}
+#formmoderno input {
+    padding: 6px;
+    font-size: 20px;
+}
+
